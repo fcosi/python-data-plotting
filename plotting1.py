@@ -14,7 +14,12 @@ start = 0
 end = 10
 steps = 100
 
+# creating x-y arrays (np.cos)
 x = np.linspace(start,end,steps)
 y = np.sin(x)
 
+# generate plot
 plt.plot(x,y)
+
+# show plot
+plt.show()
