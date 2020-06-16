@@ -12,7 +12,7 @@ import pandas as pd
 
 # general changes to matplotlib (3)
 plt.rc('text', usetex=True)
-plt.rc('font', **{'size': 24})
+plt.rc('font', **{'family': 'DejaVu Sans','size': 24})
 
 pop = pd.read_csv("data/populations.txt", sep="\t")
 
