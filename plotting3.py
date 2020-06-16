@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# general changes to matplotlib (3)
+# general changes to matplotlib
 plt.rc('text', usetex=True)
 plt.rc('font', **{'family': 'DejaVu Sans','size': 24})
 
