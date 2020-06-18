@@ -19,6 +19,8 @@ Introduction to plotting data with python
 
     https://courses.edx.org/courses/course-v1:IBM+PY0101EN+1T2020/course/
 
+  or similar
+
 ## Sources
 
 * some data from 
