@@ -1,0 +1,9 @@
+.gitignore
+*~
+__*__
+*.pdf
+*.eps
+*.svg
+*.csv
+*.png
+*.mp4
